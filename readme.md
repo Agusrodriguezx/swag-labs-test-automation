@@ -29,8 +29,8 @@ The project uses GitHub Actions to automatically run the tests on every push or 
 The workflow runs the tests with Pytest on an Ubuntu environment with Chrome in headless mode, and generates an HTML report as a downloadable artifact from the GitHub Actions tab.
 
 ## Installation
-`git clone https://github.com/Agusrodriguezx/Proyecto_final.git
-cd Proyecto_final`
+`git clone https://github.com/Agusrodriguezx/swag-labs-test-automation.git
+cd swag-labs-test-automation`
 
 
 ## Installing Dependencies
