@@ -1,4 +1,4 @@
-# QA Automation Project - Agustina Rodriguez
+# Swag Labs Test Automation - Agustina Rodriguez
 
 ## Description
 
